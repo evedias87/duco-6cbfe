@@ -2,11 +2,9 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "headerVariant": "variant-c",
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
-        "title": "Starter",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
@@ -16,7 +14,7 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
+                "label": "Quem Somos",
                 "url": "/careers",
                 "altText": ""
             },
@@ -25,12 +23,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
             }
         ],
         "secondaryLinks": [
@@ -44,17 +36,16 @@
         ],
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "wide",
                 "padding": [
                     "pt-5",
                     "pb-5",
-                    "pr-4",
-                    "pl-4"
+                    "pr-5",
+                    "pl-5"
                 ]
             }
         },
         "logo": {
-            "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": "",
             "styles": {
@@ -63,31 +54,19 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo.svg"
-        }
+            "url": "/images/1.png"
+        },
+        "title": "Duco",
+        "headerVariant": "variant-d"
     },
     "footer": {
         "colors": "colors-h",
-        "logo": {
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": "",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock",
-            "url": "/images/logo.svg"
-        },
-        "title": "Starter",
+        "title": "Duco",
         "contacts": {
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
             "phoneAltText": "Our phone",
-            "email": "info@lorem.mail",
+            "email": "ducofintech@gmail.com",
             "emailAltText": "Our email",
-            "address": "312 Lovely Street, NY",
             "addressAltText": "Our address"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
@@ -96,12 +75,6 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
                 "altText": ""
             },
             {
@@ -122,22 +95,15 @@
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "/",
+                "url": "https://twitter.com/DucoFintech",
                 "icon": "twitter"
             },
             {
                 "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
-                "url": "/",
+                "url": "https://www.instagram.com/duco.lte/",
                 "icon": "instagram"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
             }
         ],
         "legalLinks": [
