@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    subtitle: 'One platform, one community.'
+    subtitle: "O que fazemos?Nosso objetivo é revolucionar o mundo da educação permitindo a escabilidade das instituições educacionais implementando a tecnologia blockchain, criando uma oportunidade para vários investidores se engajarem por meio de tokenização.\_Incorporando assim um ecossistema totalmente colaborativo com várias organizações para aumentar a visibilidade, os clientes e os valores fundamentais."
     actions:
       - type: Button
         label: Get Started
