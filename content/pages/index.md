@@ -60,12 +60,6 @@ sections:
     text: >
       Learn how top tech companies have learned working remote using our
       product.
-    badge:
-      type: Badge
-      label: Case study
-      styles:
-        self:
-          textAlign: left
     actions:
       - type: Button
         label: Get Started
