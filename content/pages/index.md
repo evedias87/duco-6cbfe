@@ -48,7 +48,7 @@ sections:
       actions:
         justifyContent: flex-start
     badge:
-      label: This is the badge
+      label: O que fazemos?
       elementId: ''
       styles:
         self:
