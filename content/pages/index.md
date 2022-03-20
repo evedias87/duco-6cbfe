@@ -236,7 +236,7 @@ sections:
           Educação, transparência, confiabilidade, inovação, colaboração,
           inclusão e foco.
         featuredImage:
-          url: /images/focused.svg
+          url: /images/valores.jpg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
