@@ -184,8 +184,8 @@ sections:
       - type: FeaturedItem
         title: Missão
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Ajudar às crianças e adolescentes em condição de vulnerabilidade
+          educacional.
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
