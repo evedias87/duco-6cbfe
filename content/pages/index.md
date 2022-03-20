@@ -233,8 +233,8 @@ sections:
       - type: FeaturedItem
         title: Focused
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Educação, transparência, confiabilidade, inovação, colaboração,
+          inclusão e foco.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
