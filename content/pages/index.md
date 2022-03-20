@@ -50,7 +50,7 @@ sections:
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
-        url: /images/gatsby.svg
+        url: /images/educarmaislogo.png
         altText: Gatsby
         caption: Gatsby
       - type: ImageBlock
