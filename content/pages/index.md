@@ -57,9 +57,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Where did everyone go?
-    text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+    text: "Nosso objetivo é revolucionar o mundo da educação permitindo a escabilidade das instituições educacionais implementando a tecnologia blockchain, criando uma oportunidade para vários investidores se engajarem por meio de tokenização.\_Incorporando assim um ecossistema totalmente colaborativo com várias organizações para aumentar a visibilidade, os clientes e os valores fundamentais.\n\n"
     actions:
       - type: Link
         label: Watch Video
