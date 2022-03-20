@@ -208,9 +208,8 @@ sections:
               - pr-4
       - type: FeaturedItem
         title: Smarter
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          “Transformar a educação no Brasil através da blockchain”
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
