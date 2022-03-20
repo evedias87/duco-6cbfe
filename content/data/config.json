@@ -56,7 +56,8 @@
             },
             "type": "ImageBlock",
             "url": "/images/1.png"
-        }
+        },
+        "title": "Duco"
     },
     "footer": {
         "colors": "colors-h",
