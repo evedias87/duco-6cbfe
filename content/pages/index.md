@@ -207,7 +207,7 @@ sections:
               - pb-6
               - pr-4
       - type: FeaturedItem
-        title: Smarter
+        title: Visão
         text: |
           “Transformar a educação no Brasil através da blockchain”
         featuredImage:
