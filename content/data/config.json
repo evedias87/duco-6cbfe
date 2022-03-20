@@ -38,7 +38,7 @@
                 "type": "Button",
                 "label": "Connect Wallet",
                 "url": "/",
-                "altText": "Sign up",
+                "altText": "Connect Wallet",
                 "style": "primary"
             }
         ],
