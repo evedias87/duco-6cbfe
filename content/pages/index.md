@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    subtitle: O que fazemos?
+    subtitle: a
     actions:
       - type: Button
         label: Get Started
