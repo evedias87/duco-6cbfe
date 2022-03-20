@@ -37,7 +37,7 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
   - colors: colors-h
-    subtitle: Trusted by
+    subtitle: Projetos apoiados
     elementId: ''
     images:
       - type: ImageBlock
