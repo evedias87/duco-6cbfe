@@ -231,7 +231,7 @@ sections:
               - pb-6
               - pr-4
       - type: FeaturedItem
-        title: Focused
+        title: Valores
         text: >
           Educação, transparência, confiabilidade, inovação, colaboração,
           inclusão e foco.
