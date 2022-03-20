@@ -6,9 +6,6 @@ author: content/data/team/desmond-eagle.json
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
-featuredImage:
-  type: ImageBlock
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-c
