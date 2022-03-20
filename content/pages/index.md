@@ -98,9 +98,6 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking fo
     items:
       - type: FeaturedItem
         title: Missão
