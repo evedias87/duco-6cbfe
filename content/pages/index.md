@@ -187,7 +187,7 @@ sections:
           Ajudar às crianças e adolescentes em condição de vulnerabilidade
           educacional.
         featuredImage:
-          url: /images/missao-851a7e9c.jpg
+          url: /images/missao-b1a9a2de.jpg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
