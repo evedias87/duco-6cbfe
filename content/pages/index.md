@@ -211,7 +211,7 @@ sections:
         text: |
           “Transformar a educação no Brasil através da blockchain”
         featuredImage:
-          url: /images/smarter.svg
+          url: /images/visao.jpg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
