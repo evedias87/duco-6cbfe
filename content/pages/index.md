@@ -47,12 +47,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    badge:
-      label: O que fazemos?
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
